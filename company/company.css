@@ -1,0 +1,22 @@
+.team{
+	background-image: url(../images/team-photo.jpg);
+	background-size: cover;
+}
+
+.people{
+	position: relative;
+	padding: 2vw;
+	background-color: white;
+	border-radius: 13px;
+	box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.person{
+	padding: 15px;
+}
+
+.person img{
+	max-width: 20vw;
+	min-width: 125px;
+	border: 1px solid grey;
+}
